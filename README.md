@@ -40,7 +40,3 @@ Curious mind passionate about building intelligent systems that can learn, adapt
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=tahakh1024&show_icons=true&theme=default" alt="tahakh1024 stats"/>
 </p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tahakh1024&theme=default" alt="tahakh1024 streak"/>
-</p>
